@@ -43,5 +43,7 @@ pikmin.usa.1.dol: `sha1: 02204260B7EFE8742D34572E58BA3DFECD92E4E9`
 
 ## TODO
 Clean up the file paths and folders
+
 test shit out to learn
+
 wait for the compiler to be found/ aid in finding it
