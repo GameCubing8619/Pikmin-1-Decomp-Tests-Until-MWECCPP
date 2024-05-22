@@ -9,6 +9,24 @@
 #define ODEMU_ADDR_NNGC2PC        0x1C000
 
 /*
+TRCallback 
+DBGCallback 
+SendMailData
+RecvDataLeng
+pEXIInputFlag
+EXIInputFlag
+SendCount 
+DBGEXIImm 
+DBGWrite 
+DBGRead
+DBGReadStatus
+DBGReadMailbox
+CheckMailBox
+MWCallback 
+DBGHandler DBGWriteMailbox DBGCheckID DBGEXIClearInterrupts DBGEXISync DBGEXIDeselect DBGEXISelect DBGEXIInit DBClose DBOpen DBWrite OSDisableInterrupts OSRestoreInterrupts DBRead DBQueryData DBInitInterrupts __OSMaskInterrupts __OSSetInterruptHandler __OSUnmaskInterrupts DBInitComm
+*/
+
+/*
  * --INFO--
  * Address:	........
  * Size:	000034
