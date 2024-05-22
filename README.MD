@@ -41,7 +41,7 @@ pikmin.usa.1.dol: `sha1: 02204260B7EFE8742D34572E58BA3DFECD92E4E9`
 - For each namespace that types and functions are contained within, create a folder. E.g. the structure `Game::GameSystem` will go in include/Game/GameSystem.h.
 - The exception is only when adding extra folders becomes useless, for example having to add multiple folders that are empty, you can instead opt for creating a header file with the namespace's definitions inside.
 
-##TODO
+## TODO
 Clean up the file paths and folders
 test shit out to learn
 wait for the compiler to be found/ aid in finding it
