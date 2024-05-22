@@ -1,0 +1,893 @@
+plugAtxServer: created window = 016c06a8
+plugAtxServer: Local host name is : 'colin-win2'
+wSocket: got socket id 148
+wSocket: got connected socket = 136 : connection from 10.121.15.50
+wSocket: got connected socket = 172 : connection from 10.121.15.50
+atxServiceAge: wants to get filename : All Files (*.*)|*.*| (20)
+atxServiceAge: wants to get filename : Bundle Files (*.dir)|*.dir| (27)
+atxServiceAge: doing finishcall!
+atxServiceAge: closedown 00133570
+atxServiceAge: down AtxServiceAge::closedown()
+ageWinNodes: closing window
+baseApp: default baseApp deconstructor
+f9a20
+Atx: Atx - Sending identification information
+baseApp: Atx - Wants to open Age service
+Age: !!!!! Opening Age server
+Age: got genage command : 00133d78
+Age: filter length = 20
+plugTexConv: adding files from base ... C:\Development\DolphinPiki\dvdImage\dataDir\screen\eng_blo
+system: base = C:\Development\DolphinPiki\dvdImage\dataDir\screen\eng_blo : type = *.*
+plugTexConv: created file C:\Development\DolphinPiki\dvdImage\dataDir\archives\blo_eng.dir ok, writing ....
+plugTexConv: added file of size 00000760 at 00000000 : screen/eng_blo/account.blo
+plugTexConv: added file of size 00002ac0 at 00000760 : screen/eng_blo/account2.blo
+plugTexConv: added file of size 00000220 at 00003220 : screen/eng_blo/ac_chui.blo
+plugTexConv: added file of size 000008e0 at 00003440 : screen/eng_blo/ac_save.blo
+plugTexConv: added file of size 000006a0 at 00003d20 : screen/eng_blo/ac_save2.blo
+plugTexConv: added file of size 00000140 at 000043c0 : screen/eng_blo/auf_a1_0.blo
+plugTexConv: added file of size 000000e0 at 00004500 : screen/eng_blo/auf_a_0.blo
+plugTexConv: added file of size 00000120 at 000045e0 : screen/eng_blo/auf_b1_0.blo
+plugTexConv: added file of size 00000120 at 00004700 : screen/eng_blo/auf_b_0.blo
+plugTexConv: added file of size 00000140 at 00004820 : screen/eng_blo/auf_c1_0.blo
+plugTexConv: added file of size 00000100 at 00004960 : screen/eng_blo/auf_c_0.blo
+plugTexConv: added file of size 000001a0 at 00004a60 : screen/eng_blo/auf_d1_0.blo
+plugTexConv: added file of size 000000e0 at 00004c00 : screen/eng_blo/auf_d_0.blo
+plugTexConv: added file of size 00000100 at 00004ce0 : screen/eng_blo/auf_e_0.blo
+plugTexConv: added file of size 000001e0 at 00004de0 : screen/eng_blo/auf_f_0.blo
+plugTexConv: added file of size 00000220 at 00004fc0 : screen/eng_blo/auf_g_0.blo
+plugTexConv: added file of size 000000e0 at 000051e0 : screen/eng_blo/auf_h_0.blo
+plugTexConv: added file of size 00000120 at 000052c0 : screen/eng_blo/auf_i_0.blo
+plugTexConv: added file of size 00000120 at 000053e0 : screen/eng_blo/auf_j_0.blo
+plugTexConv: added file of size 00000100 at 00005500 : screen/eng_blo/auf_k_0.blo
+plugTexConv: added file of size 000000e0 at 00005600 : screen/eng_blo/auf_l_0.blo
+plugTexConv: added file of size 000000e0 at 000056e0 : screen/eng_blo/auf_m_0.blo
+plugTexConv: added file of size 000001a0 at 000057c0 : screen/eng_blo/auf_n_0.blo
+plugTexConv: added file of size 00000100 at 00005960 : screen/eng_blo/auf_o_0.blo
+plugTexConv: added file of size 00000160 at 00005a60 : screen/eng_blo/auf_p_0.blo
+plugTexConv: added file of size 00000100 at 00005bc0 : screen/eng_blo/auf_q_0.blo
+plugTexConv: added file of size 00000120 at 00005cc0 : screen/eng_blo/auf_r_0.blo
+plugTexConv: added file of size 00000140 at 00005de0 : screen/eng_blo/auf_s_0.blo
+plugTexConv: added file of size 00000120 at 00005f20 : screen/eng_blo/auf_t_0.blo
+plugTexConv: added file of size 00000120 at 00006040 : screen/eng_blo/auf_u_0.blo
+plugTexConv: added file of size 00000120 at 00006160 : screen/eng_blo/auf_v_0.blo
+plugTexConv: added file of size 00000100 at 00006280 : screen/eng_blo/auf_w_0.blo
+plugTexConv: added file of size 00000100 at 00006380 : screen/eng_blo/auf_x_0.blo
+plugTexConv: added file of size 00000140 at 00006480 : screen/eng_blo/auf_y_0.blo
+plugTexConv: added file of size 00000100 at 000065c0 : screen/eng_blo/auf_z_0.blo
+plugTexConv: added file of size 00000040 at 000066c0 : screen/eng_blo/black.blo
+plugTexConv: added file of size 00000240 at 00006700 : screen/eng_blo/cha_best.blo
+plugTexConv: added file of size 00001b20 at 00006940 : screen/eng_blo/cha_hi.blo
+plugTexConv: added file of size 00000ce0 at 00008460 : screen/eng_blo/cha_map.blo
+plugTexConv: added file of size 00000740 at 00009140 : screen/eng_blo/cha_rank.blo
+plugTexConv: added file of size 00001340 at 00009880 : screen/eng_blo/cha_re.blo
+plugTexConv: added file of size 000003e0 at 0000abc0 : screen/eng_blo/cha_sav2.blo
+plugTexConv: added file of size 000003e0 at 0000afa0 : screen/eng_blo/cha_save.blo
+plugTexConv: added file of size 00000580 at 0000b380 : screen/eng_blo/cha_sel.blo
+plugTexConv: added file of size 00001d00 at 0000b900 : screen/eng_blo/con01.blo
+plugTexConv: added file of size 00001080 at 0000d600 : screen/eng_blo/cont_00.blo
+plugTexConv: added file of size 00000140 at 0000e680 : screen/eng_blo/cont_y.blo
+plugTexConv: added file of size 000001a0 at 0000e7c0 : screen/eng_blo/count.blo
+plugTexConv: added file of size 000012e0 at 0000e960 : screen/eng_blo/course.blo
+plugTexConv: added file of size 00000c20 at 0000fc40 : screen/eng_blo/data1.blo
+plugTexConv: added file of size 000019c0 at 00010860 : screen/eng_blo/data1_b.blo
+plugTexConv: added file of size 00000400 at 00012220 : screen/eng_blo/data1_n.blo
+plugTexConv: added file of size 00000aa0 at 00012620 : screen/eng_blo/data2.blo
+plugTexConv: added file of size 000019c0 at 000130c0 : screen/eng_blo/data2_b.blo
+plugTexConv: added file of size 00000500 at 00014a80 : screen/eng_blo/data2_n.blo
+plugTexConv: added file of size 00000aa0 at 00014f80 : screen/eng_blo/data3.blo
+plugTexConv: added file of size 000019c0 at 00015a20 : screen/eng_blo/data3_b.blo
+plugTexConv: added file of size 00000500 at 000173e0 : screen/eng_blo/data3_n.blo
+plugTexConv: added file of size 00000080 at 000178e0 : screen/eng_blo/data_b.blo
+plugTexConv: added file of size 00000240 at 00017960 : screen/eng_blo/data_err.blo
+plugTexConv: added file of size 00000de0 at 00017ba0 : screen/eng_blo/data_i.blo
+plugTexConv: added file of size 00003580 at 00018980 : screen/eng_blo/data_m.blo
+plugTexConv: added file of size 00000e60 at 0001bf00 : screen/eng_blo/data_mx.blo
+plugTexConv: added file of size 00003400 at 0001cd60 : screen/eng_blo/data_m_org.blo
+plugTexConv: added file of size 00000f20 at 00020160 : screen/eng_blo/data_pf.blo
+plugTexConv: added file of size 00001b40 at 00021080 : screen/eng_blo/data_smx.blo
+plugTexConv: added file of size 00002b80 at 00022bc0 : screen/eng_blo/data_t.blo
+plugTexConv: added file of size 00001fc0 at 00025740 : screen/eng_blo/data_t1.blo
+plugTexConv: added file of size 00000ae0 at 00027700 : screen/eng_blo/data_t2.blo
+plugTexConv: added file of size 000031a0 at 000281e0 : screen/eng_blo/end.blo
+plugTexConv: added file of size 000004a0 at 0002b380 : screen/eng_blo/error.blo
+plugTexConv: added file of size 00001b80 at 0002b820 : screen/eng_blo/f_result.blo
+plugTexConv: added file of size 00000220 at 0002d3a0 : screen/eng_blo/gameove2.blo
+plugTexConv: added file of size 000001c0 at 0002d5c0 : screen/eng_blo/gameover.blo
+plugTexConv: added file of size 000005c0 at 0002d780 : screen/eng_blo/ms_selec.blo
+plugTexConv: added file of size 00003640 at 0002dd40 : screen/eng_blo/m_menu.blo
+plugTexConv: added file of size 00001a00 at 00031380 : screen/eng_blo/m_menu2.blo
+plugTexConv: added file of size 00000100 at 00032d80 : screen/eng_blo/m_menu2m.blo
+plugTexConv: added file of size 000031c0 at 00032e80 : screen/eng_blo/m_menu_b.blo
+plugTexConv: added file of size 00003880 at 00036040 : screen/eng_blo/m_menu_r.blo
+plugTexConv: added file of size 00001080 at 000398c0 : screen/eng_blo/m_selec2.blo
+plugTexConv: added file of size 00000fa0 at 0003a940 : screen/eng_blo/m_select.blo
+plugTexConv: added file of size 00001200 at 0003b8e0 : screen/eng_blo/option.blo
+plugTexConv: added file of size 000011a0 at 0003cae0 : screen/eng_blo/o_select.blo
+plugTexConv: added file of size 00000660 at 0003dc80 : screen/eng_blo/pause.blo
+plugTexConv: added file of size 00000720 at 0003e2e0 : screen/eng_blo/pause_ok.blo
+plugTexConv: added file of size 00000560 at 0003ea00 : screen/eng_blo/pause_w.blo
+plugTexConv: added file of size 00000340 at 0003ef60 : screen/eng_blo/play09.blo
+plugTexConv: added file of size 00000160 at 0003f2a0 : screen/eng_blo/play10.blo
+plugTexConv: added file of size 00000820 at 0003f400 : screen/eng_blo/play_07.blo
+plugTexConv: added file of size 000005c0 at 0003fc20 : screen/eng_blo/play_cha.blo
+plugTexConv: added file of size 00000340 at 000401e0 : screen/eng_blo/play_day.blo
+plugTexConv: added file of size 000010c0 at 00040520 : screen/eng_blo/pose.blo
+plugTexConv: added file of size 00000060 at 000415e0 : screen/eng_blo/press_s.blo
+plugTexConv: added file of size 000011e0 at 00041640 : screen/eng_blo/progre.blo
+plugTexConv: added file of size 00000340 at 00042820 : screen/eng_blo/progre2.blo
+plugTexConv: added file of size 00000900 at 00042b60 : screen/eng_blo/p_map00.blo
+plugTexConv: added file of size 00000900 at 00043460 : screen/eng_blo/p_map01.blo
+plugTexConv: added file of size 00000900 at 00043d60 : screen/eng_blo/p_map02.blo
+plugTexConv: added file of size 00000900 at 00044660 : screen/eng_blo/p_map03.blo
+plugTexConv: added file of size 00000900 at 00044f60 : screen/eng_blo/p_map04.blo
+plugTexConv: added file of size 000001e0 at 00045860 : screen/eng_blo/re_a1_00.blo
+plugTexConv: added file of size 000001e0 at 00045a40 : screen/eng_blo/re_a2_00.blo
+plugTexConv: added file of size 000001e0 at 00045c20 : screen/eng_blo/re_a_00.blo
+plugTexConv: added file of size 00000220 at 00045e00 : screen/eng_blo/re_a_01.blo
+plugTexConv: added file of size 00000200 at 00046020 : screen/eng_blo/re_b1_00.blo
+plugTexConv: added file of size 00000200 at 00046220 : screen/eng_blo/re_b2_00.blo
+plugTexConv: added file of size 00000440 at 00046420 : screen/eng_blo/re_b_00.blo
+plugTexConv: added file of size 000001e0 at 00046860 : screen/eng_blo/re_b_01.blo
+plugTexConv: added file of size 000001e0 at 00046a40 : screen/eng_blo/re_c1_00.blo
+plugTexConv: added file of size 000001c0 at 00046c20 : screen/eng_blo/re_c2_00.blo
+plugTexConv: added file of size 00000200 at 00046de0 : screen/eng_blo/re_c_00.blo
+plugTexConv: added file of size 000001e0 at 00046fe0 : screen/eng_blo/re_d1_00.blo
+plugTexConv: added file of size 000001e0 at 000471c0 : screen/eng_blo/re_d2_00.blo
+plugTexConv: added file of size 00000240 at 000473a0 : screen/eng_blo/re_d_00.blo
+plugTexConv: added file of size 00000420 at 000475e0 : screen/eng_blo/re_d_01.blo
+plugTexConv: added file of size 00000200 at 00047a00 : screen/eng_blo/re_e1_00.blo
+plugTexConv: added file of size 000001e0 at 00047c00 : screen/eng_blo/re_e2_00.blo
+plugTexConv: added file of size 00000220 at 00047de0 : screen/eng_blo/re_e_00.blo
+plugTexConv: added file of size 000001e0 at 00048000 : screen/eng_blo/re_f1_00.blo
+plugTexConv: added file of size 00000220 at 000481e0 : screen/eng_blo/re_f2_00.blo
+plugTexConv: added file of size 000001c0 at 00048400 : screen/eng_blo/re_f_00.blo
+plugTexConv: added file of size 000000e0 at 000485c0 : screen/eng_blo/re_f_01.blo
+plugTexConv: added file of size 000001c0 at 000486a0 : screen/eng_blo/re_g1_00.blo
+plugTexConv: added file of size 000001c0 at 00048860 : screen/eng_blo/re_g2_00.blo
+plugTexConv: added file of size 00000220 at 00048a20 : screen/eng_blo/re_g_00.blo
+plugTexConv: added file of size 000001e0 at 00048c40 : screen/eng_blo/re_h1_00.blo
+plugTexConv: added file of size 000001e0 at 00048e20 : screen/eng_blo/re_h2_00.blo
+plugTexConv: added file of size 00000200 at 00049000 : screen/eng_blo/re_h_00.blo
+plugTexConv: added file of size 00000200 at 00049200 : screen/eng_blo/re_i1_00.blo
+plugTexConv: added file of size 00000200 at 00049400 : screen/eng_blo/re_i2_00.blo
+plugTexConv: added file of size 00000240 at 00049600 : screen/eng_blo/re_i_00.blo
+plugTexConv: added file of size 000001e0 at 00049840 : screen/eng_blo/re_j1_00.blo
+plugTexConv: added file of size 00000200 at 00049a20 : screen/eng_blo/re_j2_00.blo
+plugTexConv: added file of size 000001e0 at 00049c20 : screen/eng_blo/re_j2_01.blo
+plugTexConv: added file of size 00000220 at 00049e00 : screen/eng_blo/re_j_00.blo
+plugTexConv: added file of size 000001e0 at 0004a020 : screen/eng_blo/re_k1_00.blo
+plugTexConv: added file of size 00000280 at 0004a200 : screen/eng_blo/re_k2_00.blo
+plugTexConv: added file of size 000001e0 at 0004a480 : screen/eng_blo/re_k_00.blo
+plugTexConv: added file of size 00000200 at 0004a660 : screen/eng_blo/re_l1_00.blo
+plugTexConv: added file of size 00000200 at 0004a860 : screen/eng_blo/re_l2_00.blo
+plugTexConv: added file of size 00000180 at 0004aa60 : screen/eng_blo/re_l_00.blo
+plugTexConv: added file of size 00000440 at 0004abe0 : screen/eng_blo/re_l_01.blo
+plugTexConv: added file of size 000001e0 at 0004b020 : screen/eng_blo/re_m1_00.blo
+plugTexConv: added file of size 000001c0 at 0004b200 : screen/eng_blo/re_m2_00.blo
+plugTexConv: added file of size 000004e0 at 0004b3c0 : screen/eng_blo/re_m_00.blo
+plugTexConv: added file of size 00000420 at 0004b8a0 : screen/eng_blo/re_m_01.blo
+plugTexConv: added file of size 000001c0 at 0004bcc0 : screen/eng_blo/re_n1_00.blo
+plugTexConv: added file of size 00000200 at 0004be80 : screen/eng_blo/re_n2_00.blo
+plugTexConv: added file of size 00000160 at 0004c080 : screen/eng_blo/re_n_00.blo
+plugTexConv: added file of size 000001e0 at 0004c1e0 : screen/eng_blo/re_o1_00.blo
+plugTexConv: added file of size 00000240 at 0004c3c0 : screen/eng_blo/re_o2_00.blo
+plugTexConv: added file of size 000001c0 at 0004c600 : screen/eng_blo/re_o_00.blo
+plugTexConv: added file of size 000001a0 at 0004c7c0 : screen/eng_blo/re_p1_00.blo
+plugTexConv: added file of size 000001e0 at 0004c960 : screen/eng_blo/re_p2_00.blo
+plugTexConv: added file of size 00000240 at 0004cb40 : screen/eng_blo/re_p_00.blo
+plugTexConv: added file of size 00000200 at 0004cd80 : screen/eng_blo/re_p_01.blo
+plugTexConv: added file of size 00000200 at 0004cf80 : screen/eng_blo/re_q1_00.blo
+plugTexConv: added file of size 000001c0 at 0004d180 : screen/eng_blo/re_q2_00.blo
+plugTexConv: added file of size 00000200 at 0004d340 : screen/eng_blo/re_q2_01.blo
+plugTexConv: added file of size 000001e0 at 0004d540 : screen/eng_blo/re_q_00.blo
+plugTexConv: added file of size 000000e0 at 0004d720 : screen/eng_blo/re_q_01.blo
+plugTexConv: added file of size 00000220 at 0004d800 : screen/eng_blo/re_r1_00.blo
+plugTexConv: added file of size 000001a0 at 0004da20 : screen/eng_blo/re_r2_00.blo
+plugTexConv: added file of size 00000220 at 0004dbc0 : screen/eng_blo/re_r_00.blo
+plugTexConv: added file of size 00000200 at 0004dde0 : screen/eng_blo/re_s1_00.blo
+plugTexConv: added file of size 00000200 at 0004dfe0 : screen/eng_blo/re_s2_00.blo
+plugTexConv: added file of size 00000240 at 0004e1e0 : screen/eng_blo/re_s_00.blo
+plugTexConv: added file of size 000001c0 at 0004e420 : screen/eng_blo/re_t1_00.blo
+plugTexConv: added file of size 00000200 at 0004e5e0 : screen/eng_blo/re_t2_00.blo
+plugTexConv: added file of size 00000160 at 0004e7e0 : screen/eng_blo/re_tx00.blo
+plugTexConv: added file of size 00000120 at 0004e940 : screen/eng_blo/re_tx01.blo
+plugTexConv: added file of size 00000140 at 0004ea60 : screen/eng_blo/re_tx02.blo
+plugTexConv: added file of size 00000180 at 0004eba0 : screen/eng_blo/re_t_00.blo
+plugTexConv: added file of size 00000200 at 0004ed20 : screen/eng_blo/re_u1_00.blo
+plugTexConv: added file of size 00000180 at 0004ef20 : screen/eng_blo/re_u2_00.blo
+plugTexConv: added file of size 00000200 at 0004f0a0 : screen/eng_blo/re_u_00.blo
+plugTexConv: added file of size 00000220 at 0004f2a0 : screen/eng_blo/re_v1_00.blo
+plugTexConv: added file of size 00000160 at 0004f4c0 : screen/eng_blo/re_v1_01.blo
+plugTexConv: added file of size 00000140 at 0004f620 : screen/eng_blo/re_v2_00.blo
+plugTexConv: added file of size 000001e0 at 0004f760 : screen/eng_blo/re_v_00.blo
+plugTexConv: added file of size 00000220 at 0004f940 : screen/eng_blo/re_w1_00.blo
+plugTexConv: added file of size 000000e0 at 0004fb60 : screen/eng_blo/re_w2_00.blo
+plugTexConv: added file of size 00000200 at 0004fc40 : screen/eng_blo/re_w_00.blo
+plugTexConv: added file of size 00000200 at 0004fe40 : screen/eng_blo/re_x1_00.blo
+plugTexConv: added file of size 000001e0 at 00050040 : screen/eng_blo/re_x_00.blo
+plugTexConv: added file of size 00000200 at 00050220 : screen/eng_blo/re_y1_00.blo
+plugTexConv: added file of size 000001e0 at 00050420 : screen/eng_blo/re_y_00.blo
+plugTexConv: added file of size 00000200 at 00050600 : screen/eng_blo/re_z1_00.blo
+plugTexConv: added file of size 000001e0 at 00050800 : screen/eng_blo/re_z_00.blo
+plugTexConv: added file of size 00000180 at 000509e0 : screen/eng_blo/re_Çê2_00.blo
+plugTexConv: added file of size 00002000 at 00050b60 : screen/eng_blo/save.blo
+plugTexConv: added file of size 000000e0 at 00052b60 : screen/eng_blo/save_x.blo
+plugTexConv: added file of size 00000100 at 00052c40 : screen/eng_blo/sund.blo
+plugTexConv: added file of size 00001820 at 00052d40 : screen/eng_blo/s_select.blo
+plugTexConv: added file of size 00000460 at 00054560 : screen/eng_blo/test.blo
+plugTexConv: added file of size 00000420 at 000549c0 : screen/eng_blo/test2.blo
+plugTexConv: added file of size 00000100 at 00054de0 : screen/eng_blo/tu_base.blo
+plugTexConv: added file of size 00000260 at 00054ee0 : screen/eng_blo/tu_tx00.blo
+plugTexConv: added file of size 00000260 at 00055140 : screen/eng_blo/tu_tx01.blo
+plugTexConv: added file of size 000001a0 at 000553a0 : screen/eng_blo/tu_tx02.blo
+plugTexConv: added file of size 00000220 at 00055540 : screen/eng_blo/tu_tx03.blo
+plugTexConv: added file of size 000002c0 at 00055760 : screen/eng_blo/tu_tx04.blo
+plugTexConv: added file of size 00000240 at 00055a20 : screen/eng_blo/tu_tx04_00.blo
+plugTexConv: added file of size 000002c0 at 00055c60 : screen/eng_blo/tu_tx05.blo
+plugTexConv: added file of size 00000220 at 00055f20 : screen/eng_blo/tu_tx05_00.blo
+plugTexConv: added file of size 000001e0 at 00056140 : screen/eng_blo/tu_tx06.blo
+plugTexConv: added file of size 00000400 at 00056320 : screen/eng_blo/tu_tx07.blo
+plugTexConv: added file of size 00000380 at 00056720 : screen/eng_blo/tu_tx08.blo
+plugTexConv: added file of size 000003e0 at 00056aa0 : screen/eng_blo/tu_tx09.blo
+plugTexConv: added file of size 00000260 at 00056e80 : screen/eng_blo/tu_tx10.blo
+plugTexConv: added file of size 00000200 at 000570e0 : screen/eng_blo/tu_tx11.blo
+plugTexConv: added file of size 00000660 at 000572e0 : screen/eng_blo/tu_tx12.blo
+plugTexConv: added file of size 00000140 at 00057940 : screen/eng_blo/tu_tx13.blo
+plugTexConv: added file of size 000001c0 at 00057a80 : screen/eng_blo/tu_tx14.blo
+plugTexConv: added file of size 000001c0 at 00057c40 : screen/eng_blo/tu_tx15.blo
+plugTexConv: added file of size 00000140 at 00057e00 : screen/eng_blo/tu_tx16.blo
+plugTexConv: added file of size 00000140 at 00057f40 : screen/eng_blo/tu_tx17.blo
+plugTexConv: added file of size 00000160 at 00058080 : screen/eng_blo/tu_tx18.blo
+plugTexConv: added file of size 00000260 at 000581e0 : screen/eng_blo/tu_tx19.blo
+plugTexConv: added file of size 00000260 at 00058440 : screen/eng_blo/tu_tx20.blo
+plugTexConv: added file of size 00000280 at 000586a0 : screen/eng_blo/tu_tx21.blo
+plugTexConv: added file of size 000001c0 at 00058920 : screen/eng_blo/tu_tx22.blo
+plugTexConv: added file of size 00000140 at 00058ae0 : screen/eng_blo/tu_tx22_00.blo
+plugTexConv: added file of size 00000280 at 00058c20 : screen/eng_blo/tu_tx23.blo
+plugTexConv: added file of size 000001a0 at 00058ea0 : screen/eng_blo/tu_tx23_00.blo
+plugTexConv: added file of size 00000200 at 00059040 : screen/eng_blo/tu_tx24.blo
+plugTexConv: added file of size 000001a0 at 00059240 : screen/eng_blo/tu_tx25.blo
+plugTexConv: added file of size 00000280 at 000593e0 : screen/eng_blo/tu_tx26.blo
+plugTexConv: added file of size 00000260 at 00059660 : screen/eng_blo/tu_tx27_00.blo
+plugTexConv: added file of size 00000240 at 000598c0 : screen/eng_blo/tu_tx27_01.blo
+plugTexConv: added file of size 000002e0 at 00059b00 : screen/eng_blo/tu_tx28.blo
+plugTexConv: added file of size 00000220 at 00059de0 : screen/eng_blo/tu_tx28_00.blo
+plugTexConv: added file of size 00000160 at 0005a000 : screen/eng_blo/tu_tx28_01.blo
+plugTexConv: added file of size 00000220 at 0005a160 : screen/eng_blo/tu_tx29.blo
+plugTexConv: added file of size 00000220 at 0005a380 : screen/eng_blo/tu_tx30.blo
+plugTexConv: added file of size 00000200 at 0005a5a0 : screen/eng_blo/tu_tx31.blo
+plugTexConv: added file of size 00000240 at 0005a7a0 : screen/eng_blo/tu_tx32.blo
+plugTexConv: added file of size 000001a0 at 0005a9e0 : screen/eng_blo/tu_tx33.blo
+plugTexConv: added file of size 00000140 at 0005ab80 : screen/eng_blo/tu_tx34.blo
+plugTexConv: added file of size 00000260 at 0005acc0 : screen/eng_blo/tu_tx35.blo
+plugTexConv: added file of size 00000180 at 0005af20 : screen/eng_blo/tu_tx36.blo
+plugTexConv: added file of size 00000200 at 0005b0a0 : screen/eng_blo/tu_tx37_00.blo
+plugTexConv: added file of size 000002a0 at 0005b2a0 : screen/eng_blo/tu_tx37_01.blo
+plugTexConv: added file of size 00000400 at 0005b540 : screen/eng_blo/tu_tx37_02.blo
+plugTexConv: added file of size 00000380 at 0005b940 : screen/eng_blo/tu_tx38_00.blo
+plugTexConv: added file of size 000001c0 at 0005bcc0 : screen/eng_blo/tu_tx38_01.blo
+plugTexConv: added file of size 00000180 at 0005be80 : screen/eng_blo/ufo_a1_0.blo
+plugTexConv: added file of size 00000100 at 0005c000 : screen/eng_blo/ufo_a_0.blo
+plugTexConv: added file of size 00000160 at 0005c100 : screen/eng_blo/ufo_b1_0.blo
+plugTexConv: added file of size 00000160 at 0005c260 : screen/eng_blo/ufo_b_0.blo
+plugTexConv: added file of size 00000140 at 0005c3c0 : screen/eng_blo/ufo_c1_0.blo
+plugTexConv: added file of size 000001a0 at 0005c500 : screen/eng_blo/ufo_c_0.blo
+plugTexConv: added file of size 00000140 at 0005c6a0 : screen/eng_blo/ufo_d_0.blo
+plugTexConv: added file of size 00000140 at 0005c7e0 : screen/eng_blo/ufo_e_0.blo
+plugTexConv: added file of size 000001a0 at 0005c920 : screen/eng_blo/ufo_f_0.blo
+plugTexConv: added file of size 00000160 at 0005cac0 : screen/eng_blo/ufo_g_0.blo
+plugTexConv: added file of size 00000180 at 0005cc20 : screen/eng_blo/ufo_h_0.blo
+plugTexConv: added file of size 00000160 at 0005cda0 : screen/eng_blo/ufo_i_0.blo
+plugTexConv: added file of size 000001c0 at 0005cf00 : screen/eng_blo/ufo_j_0.blo
+plugTexConv: added file of size 00000140 at 0005d0c0 : screen/eng_blo/ufo_k_0.blo
+plugTexConv: added file of size 00000140 at 0005d200 : screen/eng_blo/ufo_l_0.blo
+plugTexConv: added file of size 00000160 at 0005d340 : screen/eng_blo/ufo_m_0.blo
+plugTexConv: added file of size 00000160 at 0005d4a0 : screen/eng_blo/ufo_n_0.blo
+plugTexConv: added file of size 00000100 at 0005d600 : screen/eng_blo/ufo_o_0.blo
+plugTexConv: added file of size 00001ae0 at 0005d700 : screen/eng_blo/ufo_p.blo
+plugTexConv: added file of size 00000140 at 0005f1e0 : screen/eng_blo/ufo_p_0.blo
+plugTexConv: added file of size 00000160 at 0005f320 : screen/eng_blo/ufo_q_0.blo
+plugTexConv: added file of size 00000160 at 0005f480 : screen/eng_blo/ufo_r_0.blo
+plugTexConv: added file of size 000001c0 at 0005f5e0 : screen/eng_blo/ufo_s_0.blo
+plugTexConv: added file of size 00000140 at 0005f7a0 : screen/eng_blo/ufo_t_0.blo
+plugTexConv: added file of size 00000180 at 0005f8e0 : screen/eng_blo/ufo_u_0.blo
+plugTexConv: added file of size 000001a0 at 0005fa60 : screen/eng_blo/ufo_v_0.blo
+plugTexConv: added file of size 00000140 at 0005fc00 : screen/eng_blo/ufo_w_0.blo
+plugTexConv: added file of size 00000120 at 0005fd40 : screen/eng_blo/ufo_x_0.blo
+plugTexConv: added file of size 00000180 at 0005fe60 : screen/eng_blo/ufo_y_0.blo
+plugTexConv: added file of size 00000200 at 0005ffe0 : screen/eng_blo/ufo_z_0.blo
+plugTexConv: added file of size 000010e0 at 000601e0 : screen/eng_blo/v_select.blo
+plugTexConv: added file of size 000000e0 at 000612c0 : screen/eng_blo/wait_char.blo
+plugTexConv: added file of size 00003d80 at 000613a0 : screen/eng_blo/worldmap.blo
+plugTexConv: added file of size 00000d80 at 00065120 : screen/eng_blo/w_back.blo
+plugTexConv: added file of size 00001980 at 00065ea0 : screen/eng_blo/w_data1.blo
+plugTexConv: added file of size 00001020 at 00067820 : screen/eng_blo/w_data2.blo
+plugTexConv: added file of size 000001e0 at 00068840 : screen/eng_blo/w_icon.blo
+plugTexConv: added file of size 00004760 at 00068a20 : screen/eng_blo/w_line.blo
+plugTexConv: added file of size 00001340 at 0006d180 : screen/eng_blo/w_moni.blo
+plugTexConv: added file of size 000011c0 at 0006e4c0 : screen/eng_blo/w_ok.blo
+plugTexConv: added file of size 000008a0 at 0006f680 : screen/eng_blo/w_point.blo
+plugTexConv: added file of size 00000900 at 0006ff20 : screen/eng_blo/w_title.blo
+plugTexConv: added file of size 000000c0 at 00070820 : screen/eng_blo/w_wipe.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/account.blo at offset 00000000
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/account.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/account2.blo at offset 00000760
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/account2.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/ac_chui.blo at offset 00003220
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/ac_chui.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/ac_save.blo at offset 00003440
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/ac_save.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/ac_save2.blo at offset 00003d20
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/ac_save2.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/auf_a1_0.blo at offset 000043c0
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/auf_a1_0.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/auf_a_0.blo at offset 00004500
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/auf_a_0.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/auf_b1_0.blo at offset 000045e0
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/auf_b1_0.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/auf_b_0.blo at offset 00004700
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/auf_b_0.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/auf_c1_0.blo at offset 00004820
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/auf_c1_0.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/auf_c_0.blo at offset 00004960
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/auf_c_0.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/auf_d1_0.blo at offset 00004a60
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/auf_d1_0.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/auf_d_0.blo at offset 00004c00
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/auf_d_0.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/auf_e_0.blo at offset 00004ce0
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/auf_e_0.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/auf_f_0.blo at offset 00004de0
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/auf_f_0.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/auf_g_0.blo at offset 00004fc0
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/auf_g_0.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/auf_h_0.blo at offset 000051e0
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/auf_h_0.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/auf_i_0.blo at offset 000052c0
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/auf_i_0.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/auf_j_0.blo at offset 000053e0
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/auf_j_0.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/auf_k_0.blo at offset 00005500
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/auf_k_0.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/auf_l_0.blo at offset 00005600
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/auf_l_0.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/auf_m_0.blo at offset 000056e0
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/auf_m_0.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/auf_n_0.blo at offset 000057c0
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/auf_n_0.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/auf_o_0.blo at offset 00005960
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/auf_o_0.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/auf_p_0.blo at offset 00005a60
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/auf_p_0.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/auf_q_0.blo at offset 00005bc0
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/auf_q_0.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/auf_r_0.blo at offset 00005cc0
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/auf_r_0.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/auf_s_0.blo at offset 00005de0
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/auf_s_0.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/auf_t_0.blo at offset 00005f20
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/auf_t_0.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/auf_u_0.blo at offset 00006040
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/auf_u_0.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/auf_v_0.blo at offset 00006160
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/auf_v_0.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/auf_w_0.blo at offset 00006280
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/auf_w_0.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/auf_x_0.blo at offset 00006380
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/auf_x_0.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/auf_y_0.blo at offset 00006480
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/auf_y_0.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/auf_z_0.blo at offset 000065c0
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/auf_z_0.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/black.blo at offset 000066c0
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/black.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/cha_best.blo at offset 00006700
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/cha_best.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/cha_hi.blo at offset 00006940
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/cha_hi.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/cha_map.blo at offset 00008460
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/cha_map.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/cha_rank.blo at offset 00009140
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/cha_rank.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/cha_re.blo at offset 00009880
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/cha_re.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/cha_sav2.blo at offset 0000abc0
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/cha_sav2.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/cha_save.blo at offset 0000afa0
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/cha_save.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/cha_sel.blo at offset 0000b380
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/cha_sel.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/con01.blo at offset 0000b900
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/con01.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/cont_00.blo at offset 0000d600
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/cont_00.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/cont_y.blo at offset 0000e680
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/cont_y.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/count.blo at offset 0000e7c0
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/count.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/course.blo at offset 0000e960
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/course.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/data1.blo at offset 0000fc40
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/data1.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/data1_b.blo at offset 00010860
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/data1_b.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/data1_n.blo at offset 00012220
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/data1_n.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/data2.blo at offset 00012620
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/data2.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/data2_b.blo at offset 000130c0
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/data2_b.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/data2_n.blo at offset 00014a80
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/data2_n.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/data3.blo at offset 00014f80
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/data3.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/data3_b.blo at offset 00015a20
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/data3_b.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/data3_n.blo at offset 000173e0
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/data3_n.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/data_b.blo at offset 000178e0
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/data_b.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/data_err.blo at offset 00017960
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/data_err.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/data_i.blo at offset 00017ba0
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/data_i.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/data_m.blo at offset 00018980
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/data_m.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/data_mx.blo at offset 0001bf00
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/data_mx.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/data_m_org.blo at offset 0001cd60
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/data_m_org.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/data_pf.blo at offset 00020160
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/data_pf.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/data_smx.blo at offset 00021080
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/data_smx.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/data_t.blo at offset 00022bc0
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/data_t.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/data_t1.blo at offset 00025740
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/data_t1.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/data_t2.blo at offset 00027700
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/data_t2.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/end.blo at offset 000281e0
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/end.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/error.blo at offset 0002b380
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/error.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/f_result.blo at offset 0002b820
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/f_result.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/gameove2.blo at offset 0002d3a0
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/gameove2.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/gameover.blo at offset 0002d5c0
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/gameover.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/ms_selec.blo at offset 0002d780
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/ms_selec.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/m_menu.blo at offset 0002dd40
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/m_menu.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/m_menu2.blo at offset 00031380
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/m_menu2.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/m_menu2m.blo at offset 00032d80
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/m_menu2m.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/m_menu_b.blo at offset 00032e80
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/m_menu_b.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/m_menu_r.blo at offset 00036040
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/m_menu_r.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/m_selec2.blo at offset 000398c0
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/m_selec2.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/m_select.blo at offset 0003a940
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/m_select.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/option.blo at offset 0003b8e0
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/option.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/o_select.blo at offset 0003cae0
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/o_select.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/pause.blo at offset 0003dc80
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/pause.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/pause_ok.blo at offset 0003e2e0
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/pause_ok.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/pause_w.blo at offset 0003ea00
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/pause_w.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/play09.blo at offset 0003ef60
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/play09.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/play10.blo at offset 0003f2a0
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/play10.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/play_07.blo at offset 0003f400
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/play_07.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/play_cha.blo at offset 0003fc20
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/play_cha.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/play_day.blo at offset 000401e0
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/play_day.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/pose.blo at offset 00040520
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/pose.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/press_s.blo at offset 000415e0
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/press_s.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/progre.blo at offset 00041640
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/progre.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/progre2.blo at offset 00042820
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/progre2.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/p_map00.blo at offset 00042b60
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/p_map00.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/p_map01.blo at offset 00043460
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/p_map01.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/p_map02.blo at offset 00043d60
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/p_map02.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/p_map03.blo at offset 00044660
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/p_map03.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/p_map04.blo at offset 00044f60
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/p_map04.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_a1_00.blo at offset 00045860
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_a1_00.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_a2_00.blo at offset 00045a40
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_a2_00.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_a_00.blo at offset 00045c20
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_a_00.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_a_01.blo at offset 00045e00
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_a_01.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_b1_00.blo at offset 00046020
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_b1_00.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_b2_00.blo at offset 00046220
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_b2_00.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_b_00.blo at offset 00046420
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_b_00.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_b_01.blo at offset 00046860
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_b_01.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_c1_00.blo at offset 00046a40
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_c1_00.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_c2_00.blo at offset 00046c20
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_c2_00.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_c_00.blo at offset 00046de0
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_c_00.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_d1_00.blo at offset 00046fe0
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_d1_00.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_d2_00.blo at offset 000471c0
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_d2_00.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_d_00.blo at offset 000473a0
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_d_00.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_d_01.blo at offset 000475e0
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_d_01.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_e1_00.blo at offset 00047a00
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_e1_00.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_e2_00.blo at offset 00047c00
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_e2_00.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_e_00.blo at offset 00047de0
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_e_00.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_f1_00.blo at offset 00048000
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_f1_00.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_f2_00.blo at offset 000481e0
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_f2_00.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_f_00.blo at offset 00048400
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_f_00.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_f_01.blo at offset 000485c0
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_f_01.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_g1_00.blo at offset 000486a0
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_g1_00.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_g2_00.blo at offset 00048860
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_g2_00.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_g_00.blo at offset 00048a20
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_g_00.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_h1_00.blo at offset 00048c40
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_h1_00.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_h2_00.blo at offset 00048e20
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_h2_00.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_h_00.blo at offset 00049000
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_h_00.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_i1_00.blo at offset 00049200
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_i1_00.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_i2_00.blo at offset 00049400
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_i2_00.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_i_00.blo at offset 00049600
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_i_00.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_j1_00.blo at offset 00049840
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_j1_00.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_j2_00.blo at offset 00049a20
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_j2_00.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_j2_01.blo at offset 00049c20
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_j2_01.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_j_00.blo at offset 00049e00
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_j_00.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_k1_00.blo at offset 0004a020
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_k1_00.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_k2_00.blo at offset 0004a200
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_k2_00.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_k_00.blo at offset 0004a480
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_k_00.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_l1_00.blo at offset 0004a660
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_l1_00.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_l2_00.blo at offset 0004a860
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_l2_00.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_l_00.blo at offset 0004aa60
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_l_00.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_l_01.blo at offset 0004abe0
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_l_01.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_m1_00.blo at offset 0004b020
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_m1_00.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_m2_00.blo at offset 0004b200
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_m2_00.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_m_00.blo at offset 0004b3c0
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_m_00.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_m_01.blo at offset 0004b8a0
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_m_01.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_n1_00.blo at offset 0004bcc0
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_n1_00.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_n2_00.blo at offset 0004be80
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_n2_00.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_n_00.blo at offset 0004c080
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_n_00.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_o1_00.blo at offset 0004c1e0
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_o1_00.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_o2_00.blo at offset 0004c3c0
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_o2_00.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_o_00.blo at offset 0004c600
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_o_00.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_p1_00.blo at offset 0004c7c0
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_p1_00.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_p2_00.blo at offset 0004c960
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_p2_00.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_p_00.blo at offset 0004cb40
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_p_00.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_p_01.blo at offset 0004cd80
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_p_01.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_q1_00.blo at offset 0004cf80
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_q1_00.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_q2_00.blo at offset 0004d180
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_q2_00.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_q2_01.blo at offset 0004d340
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_q2_01.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_q_00.blo at offset 0004d540
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_q_00.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_q_01.blo at offset 0004d720
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_q_01.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_r1_00.blo at offset 0004d800
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_r1_00.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_r2_00.blo at offset 0004da20
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_r2_00.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_r_00.blo at offset 0004dbc0
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_r_00.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_s1_00.blo at offset 0004dde0
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_s1_00.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_s2_00.blo at offset 0004dfe0
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_s2_00.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_s_00.blo at offset 0004e1e0
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_s_00.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_t1_00.blo at offset 0004e420
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_t1_00.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_t2_00.blo at offset 0004e5e0
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_t2_00.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_tx00.blo at offset 0004e7e0
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_tx00.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_tx01.blo at offset 0004e940
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_tx01.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_tx02.blo at offset 0004ea60
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_tx02.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_t_00.blo at offset 0004eba0
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_t_00.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_u1_00.blo at offset 0004ed20
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_u1_00.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_u2_00.blo at offset 0004ef20
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_u2_00.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_u_00.blo at offset 0004f0a0
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_u_00.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_v1_00.blo at offset 0004f2a0
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_v1_00.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_v1_01.blo at offset 0004f4c0
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_v1_01.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_v2_00.blo at offset 0004f620
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_v2_00.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_v_00.blo at offset 0004f760
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_v_00.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_w1_00.blo at offset 0004f940
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_w1_00.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_w2_00.blo at offset 0004fb60
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_w2_00.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_w_00.blo at offset 0004fc40
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_w_00.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_x1_00.blo at offset 0004fe40
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_x1_00.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_x_00.blo at offset 00050040
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_x_00.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_y1_00.blo at offset 00050220
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_y1_00.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_y_00.blo at offset 00050420
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_y_00.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_z1_00.blo at offset 00050600
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_z1_00.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_z_00.blo at offset 00050800
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_z_00.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_Çê2_00.blo at offset 000509e0
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/re_Çê2_00.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/save.blo at offset 00050b60
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/save.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/save_x.blo at offset 00052b60
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/save_x.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/sund.blo at offset 00052c40
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/sund.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/s_select.blo at offset 00052d40
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/s_select.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/test.blo at offset 00054560
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/test.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/test2.blo at offset 000549c0
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/test2.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/tu_base.blo at offset 00054de0
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/tu_base.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/tu_tx00.blo at offset 00054ee0
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/tu_tx00.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/tu_tx01.blo at offset 00055140
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/tu_tx01.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/tu_tx02.blo at offset 000553a0
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/tu_tx02.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/tu_tx03.blo at offset 00055540
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/tu_tx03.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/tu_tx04.blo at offset 00055760
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/tu_tx04.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/tu_tx04_00.blo at offset 00055a20
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/tu_tx04_00.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/tu_tx05.blo at offset 00055c60
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/tu_tx05.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/tu_tx05_00.blo at offset 00055f20
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/tu_tx05_00.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/tu_tx06.blo at offset 00056140
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/tu_tx06.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/tu_tx07.blo at offset 00056320
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/tu_tx07.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/tu_tx08.blo at offset 00056720
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/tu_tx08.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/tu_tx09.blo at offset 00056aa0
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/tu_tx09.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/tu_tx10.blo at offset 00056e80
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/tu_tx10.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/tu_tx11.blo at offset 000570e0
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/tu_tx11.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/tu_tx12.blo at offset 000572e0
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/tu_tx12.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/tu_tx13.blo at offset 00057940
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/tu_tx13.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/tu_tx14.blo at offset 00057a80
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/tu_tx14.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/tu_tx15.blo at offset 00057c40
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/tu_tx15.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/tu_tx16.blo at offset 00057e00
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/tu_tx16.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/tu_tx17.blo at offset 00057f40
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/tu_tx17.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/tu_tx18.blo at offset 00058080
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/tu_tx18.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/tu_tx19.blo at offset 000581e0
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/tu_tx19.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/tu_tx20.blo at offset 00058440
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/tu_tx20.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/tu_tx21.blo at offset 000586a0
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/tu_tx21.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/tu_tx22.blo at offset 00058920
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/tu_tx22.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/tu_tx22_00.blo at offset 00058ae0
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/tu_tx22_00.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/tu_tx23.blo at offset 00058c20
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/tu_tx23.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/tu_tx23_00.blo at offset 00058ea0
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/tu_tx23_00.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/tu_tx24.blo at offset 00059040
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/tu_tx24.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/tu_tx25.blo at offset 00059240
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/tu_tx25.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/tu_tx26.blo at offset 000593e0
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/tu_tx26.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/tu_tx27_00.blo at offset 00059660
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/tu_tx27_00.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/tu_tx27_01.blo at offset 000598c0
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/tu_tx27_01.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/tu_tx28.blo at offset 00059b00
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/tu_tx28.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/tu_tx28_00.blo at offset 00059de0
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/tu_tx28_00.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/tu_tx28_01.blo at offset 0005a000
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/tu_tx28_01.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/tu_tx29.blo at offset 0005a160
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/tu_tx29.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/tu_tx30.blo at offset 0005a380
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/tu_tx30.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/tu_tx31.blo at offset 0005a5a0
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/tu_tx31.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/tu_tx32.blo at offset 0005a7a0
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/tu_tx32.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/tu_tx33.blo at offset 0005a9e0
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/tu_tx33.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/tu_tx34.blo at offset 0005ab80
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/tu_tx34.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/tu_tx35.blo at offset 0005acc0
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/tu_tx35.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/tu_tx36.blo at offset 0005af20
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/tu_tx36.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/tu_tx37_00.blo at offset 0005b0a0
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/tu_tx37_00.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/tu_tx37_01.blo at offset 0005b2a0
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/tu_tx37_01.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/tu_tx37_02.blo at offset 0005b540
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/tu_tx37_02.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/tu_tx38_00.blo at offset 0005b940
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/tu_tx38_00.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/tu_tx38_01.blo at offset 0005bcc0
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/tu_tx38_01.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/ufo_a1_0.blo at offset 0005be80
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/ufo_a1_0.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/ufo_a_0.blo at offset 0005c000
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/ufo_a_0.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/ufo_b1_0.blo at offset 0005c100
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/ufo_b1_0.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/ufo_b_0.blo at offset 0005c260
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/ufo_b_0.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/ufo_c1_0.blo at offset 0005c3c0
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/ufo_c1_0.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/ufo_c_0.blo at offset 0005c500
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/ufo_c_0.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/ufo_d_0.blo at offset 0005c6a0
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/ufo_d_0.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/ufo_e_0.blo at offset 0005c7e0
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/ufo_e_0.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/ufo_f_0.blo at offset 0005c920
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/ufo_f_0.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/ufo_g_0.blo at offset 0005cac0
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/ufo_g_0.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/ufo_h_0.blo at offset 0005cc20
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/ufo_h_0.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/ufo_i_0.blo at offset 0005cda0
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/ufo_i_0.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/ufo_j_0.blo at offset 0005cf00
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/ufo_j_0.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/ufo_k_0.blo at offset 0005d0c0
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/ufo_k_0.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/ufo_l_0.blo at offset 0005d200
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/ufo_l_0.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/ufo_m_0.blo at offset 0005d340
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/ufo_m_0.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/ufo_n_0.blo at offset 0005d4a0
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/ufo_n_0.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/ufo_o_0.blo at offset 0005d600
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/ufo_o_0.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/ufo_p.blo at offset 0005d700
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/ufo_p.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/ufo_p_0.blo at offset 0005f1e0
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/ufo_p_0.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/ufo_q_0.blo at offset 0005f320
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/ufo_q_0.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/ufo_r_0.blo at offset 0005f480
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/ufo_r_0.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/ufo_s_0.blo at offset 0005f5e0
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/ufo_s_0.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/ufo_t_0.blo at offset 0005f7a0
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/ufo_t_0.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/ufo_u_0.blo at offset 0005f8e0
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/ufo_u_0.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/ufo_v_0.blo at offset 0005fa60
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/ufo_v_0.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/ufo_w_0.blo at offset 0005fc00
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/ufo_w_0.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/ufo_x_0.blo at offset 0005fd40
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/ufo_x_0.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/ufo_y_0.blo at offset 0005fe60
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/ufo_y_0.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/ufo_z_0.blo at offset 0005ffe0
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/ufo_z_0.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/v_select.blo at offset 000601e0
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/v_select.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/wait_char.blo at offset 000612c0
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/wait_char.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/worldmap.blo at offset 000613a0
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/worldmap.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/w_back.blo at offset 00065120
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/w_back.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/w_data1.blo at offset 00065ea0
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/w_data1.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/w_data2.blo at offset 00067820
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/w_data2.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/w_icon.blo at offset 00068840
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/w_icon.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/w_line.blo at offset 00068a20
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/w_line.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/w_moni.blo at offset 0006d180
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/w_moni.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/w_ok.blo at offset 0006e4c0
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/w_ok.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/w_point.blo at offset 0006f680
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/w_point.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/w_title.blo at offset 0006ff20
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/w_title.blo
+plugTexConv: putting file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/w_wipe.blo at offset 00070820
+system: Opened file C:/Development/DolphinPiki/dvdImage/dataDir/screen/eng_blo/w_wipe.blo
+baseApp: default baseApp deconstructor
+baseApp: Atx - Wants to close Age service
