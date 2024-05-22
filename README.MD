@@ -1,5 +1,5 @@
 # Pikmin 1
-Pikmin 1 (USA Revision 1) disassembly/decompilation to C++/C
+Pikmin 1 (USA Revision 1) disassembly/decompilation to C++/C Cubes Fork
 
 ```diff
 - INFORMATION! -
@@ -18,7 +18,7 @@ pikmin.usa.1.dol: `sha1: 02204260B7EFE8742D34572E58BA3DFECD92E4E9`
 ## Building
 
 ### Required Tools
-* [devkitPro](https://devkitpro.org/wiki/Getting_Started)
+* [devkitPro](https://devkitpro.org/wiki/Getting_Started) //-cube 2024 cant wait for the MW compiler to be found so no more devkit!!
 * python
 
 ### Instructions
