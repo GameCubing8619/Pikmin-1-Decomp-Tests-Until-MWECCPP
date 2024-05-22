@@ -1,0 +1,3 @@
+usa = 1.00 for non players choice and 1.01 for players choice
+jpn =  1.00 for non players choice and 1.01 for players choice + a kiosk demo not dumped yet but minty has
+eu = ??? idk tbh
