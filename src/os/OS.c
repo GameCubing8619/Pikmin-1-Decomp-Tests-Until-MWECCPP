@@ -1,7 +1,7 @@
 #include "types.h"
+#include "Dolphin/os.h"
 
-/*
- * --INFO--
+/**
  * Address:	........
  * Size:	00000C
  */
@@ -27,6 +27,12 @@ void __OSInitFPRs(void)
  */
 void OSGetConsoleType(void)
 {
+	/*
+	if(){
+
+	}
+
+	*/
 	/*
 	.loc_0x0:
 	  lwz       r3, 0x31C8(r13)
