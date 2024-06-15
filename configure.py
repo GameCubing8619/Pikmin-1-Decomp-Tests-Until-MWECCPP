@@ -100,7 +100,7 @@ LIBS = [
             ["sysCommon/grLight", False],
             ["sysCommon/shapeBase", False],
             ["sysCommon/shpLightFlares", False],
-            ["sysCommon/shpObjColl", False],
+            ["sysCommon/shpObjColl", True],
             ["sysCommon/shpRoutes", False],
             ["sysCommon/sysMath", False],
             ["sysCommon/matMath", False],
@@ -576,7 +576,7 @@ LIBS = [
         "mw_version": "1.2.5",
         "host": True,
         "objects": [
-            ["db/db", False],
+            ["db/db", True],
         ],
     },
     {
@@ -629,7 +629,7 @@ LIBS = [
         "mw_version": "1.2.5",
         "host": True,
         "objects": [
-            ["ai/ai", False],
+            ["ai/ai", True],
         ],
     },
     {
