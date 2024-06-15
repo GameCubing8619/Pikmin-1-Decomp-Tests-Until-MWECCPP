@@ -47,5 +47,3 @@ Clean up the file paths and folders
 Update Make Files
 
 test shit out to learn
-
-wait for the compiler to be found/ aid in finding it
